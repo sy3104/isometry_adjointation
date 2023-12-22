@@ -4,7 +4,7 @@
 %
 % Discription : 
 % Code to obtain the optimal approximation error or success probability of
-% transforming 'n' calls of any isometry operations with input dimension
+% transforming 'n' calls of any isometry operation with input dimension
 % 'din' and output dimension 'dout' into its inverse map, corresponding
 % POVM, or adjoint operation.
 % Please set the parameters 'din', 'dout', 'n', 'protocol', 'task',
