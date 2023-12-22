@@ -14,7 +14,7 @@ The SDP code is written in Matlab and requires the following interpreter:
 
 - [CVX](http://cvxr.com): a Matlab-based convex modeling framework
 
-These codes also use functions of QETLAB ([QETLAB](https://qetlab.com): A MATLAB Toolbox for Quantum Entanglement), but all used functions are contained in the subfolder [QETLAB_used_functions](https://github.com/sy3104/isometry_adjointation/tree/main/QETLAB_used_functions).
+These codes also use functions of [QETLAB](https://qetlab.com), but all used functions are contained in the subfolder [QETLAB_used_functions](https://github.com/sy3104/isometry_adjointation/tree/main/QETLAB_used_functions).
 
 It has been tested on MATLAB R2021b and CVX 2.2.
 
