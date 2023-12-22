@@ -4,7 +4,7 @@
 %
 % Description :
 % Dual SDP code to obtain the optimal approximation error or success
-% probability of transforming 'n' calls of any isometry operations with
+% probability of transforming 'n' calls of any isometry operation with
 % input dimension 'din' and output dimension 'dout' into its inverse
 % map, corresponding POVM, or adjoint map using general protocols including
 % indefinite causal order.
