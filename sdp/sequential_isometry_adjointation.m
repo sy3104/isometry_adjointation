@@ -5,7 +5,7 @@
 % Description :
 % Primal SDP code to obtain the optimal approximation error or success
 % probability of transforming sequential 'n' calls of any isometry
-% operations with input dimension 'din' and output dimension 'dout' into
+% operation with input dimension 'din' and output dimension 'dout' into
 % its inverse map, corresponding POVM, or adjoint map.
 %
 % -------------------------------------------------------------------------
