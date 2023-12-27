@@ -75,6 +75,6 @@ switch protocol
         end
 end
 
-optimal_task_of_merit = opt_fom
+optimal_figure_of_merit = opt_fom
 
 total_time_in_seconds = toc
