@@ -6,7 +6,7 @@ This repository contains
 
 This code is accompanied to the following paper:
 
-- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal adjointation of isometry operations using transformation of quantum supermaps, [Quantum 9, 1750 (2025)](https://doi.org/10.22331/q-2025-05-20-1750), [arXiv:2401.10137](https://arxiv.org/abs/2401.10137).
+- Satoshi Yoshida, Akihito Soeda, and Mio Murao, Universal adjointation of isometry operations using conversion of quantum supermaps, [Quantum 9, 1750 (2025)](https://doi.org/10.22331/q-2025-05-20-1750), [arXiv:2401.10137](https://arxiv.org/abs/2401.10137).
 
 ## Requirement
 
